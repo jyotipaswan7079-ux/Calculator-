@@ -1,6 +1,8 @@
 🧮 Calculator Web Application
 
-A simple and responsive Calculator Web Application built using HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations with a clean user interface.
+Welcome to my Calculator Web Application! 👋
+
+This project is a simple and responsive calculator built using HTML, CSS, and JavaScript. It performs basic mathematical operations with a clean and user-friendly interface.
 
 🚀 Features
 
@@ -8,52 +10,41 @@ A simple and responsive Calculator Web Application built using HTML, CSS, and Ja
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- % Percentage (remainder operation)
-- 🔢 Decimal number calculations
-- 🗑️ Clear All (AC)
+- % Modulo (remainder)
+- 🔢 Decimal calculations
+- 🧹 Clear All (AC)
 - ⌫ Delete Last Character (DEL)
 - ⌨️ Keyboard Support
 - 📱 Responsive Design
 
 🛠️ Technologies Used
 
-- HTML5 — Structure of the calculator.
-- CSS3 — Styling and responsive design.
-- JavaScript — Calculator functionality and calculations.
+- HTML5
+- CSS3
+- JavaScript
 
-💻 How to Run the Project
+💻 How to Run
 
-1. Clone this repository:
+1. Clone the repository:
    
-   https://github.com/jyotipaswan7079-ux/Calculator-/edit/main/README.md
+   git clone https://github.com/jyotipaswan7079-ux/calculator.git
 
-2. Open the project folder:
-   
-   cd calculator
+2. Open the "calculator" folder.
 
-3. Open "index.html" in your web browser.
+3. Open "index.html" in your browser.
 
 4. Start calculating!
 
-🧮 How to Use
-
-1. Click the number buttons to enter a calculation.
-2. Select an arithmetic operator.
-3. Enter another number.
-4. Press "=" to display the result.
-5. Press "AC" to clear the display.
-6. Press "DEL" to delete the last character.
-
-You can also use your keyboard to enter numbers and perform calculations.
-
 🎯 Project Objective
 
-The objective of this project is to learn and practice HTML, CSS, and JavaScript by building an interactive calculator.
+The objective of this project is to practice front-end web development and learn how HTML, CSS, and JavaScript work together to create an interactive web application.
 
 👩‍💻 Author
 
-Created as a beginner-friendly web development project.
+Jyoti Kumari
+
+- GitHub Profile: "jyotipaswan7079-ux" (https://github.com/jyotipaswan7079-ux)
 
 📄 License
 
-This project is open-source and available for learning and educational purposes.
+This project is available for educational and learning purposes.
